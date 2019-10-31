@@ -1,0 +1,14 @@
+.logo:hover{
+    transform: rotateY(30deg);
+    transition: 0.2s ease;
+}
+
+.logo{
+    transition: 0.6s ease;
+}
+
+@media(min-width: 1000px){
+    .logo {
+        padding: 20px
+    }
+}

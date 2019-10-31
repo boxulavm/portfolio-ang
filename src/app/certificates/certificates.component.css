@@ -1,0 +1,12 @@
+.techs .list-group-item{
+    margin-bottom: 5px;
+    background-color: #0a0a0a;
+    transition: 0.1s ease-in;
+    transform: scale(0.97)
+}
+
+.list-group-item:hover {
+    transform: scale(1) !important;
+    transition: 0.1s ease-in;
+    background-color: #1d1d1d !important;
+}

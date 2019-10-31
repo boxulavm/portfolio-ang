@@ -1,0 +1,14 @@
+.projects .card {
+    background-color: #0a0a0a;
+    height: 100%;
+    transition: 0.2s ease;
+}
+
+.projects .card:hover{
+   border-bottom: 1px solid #007bff;
+   transition: 0.2s ease;
+}
+
+.card-content {
+    height: 130px;
+}

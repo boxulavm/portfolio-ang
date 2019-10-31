@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+
+:root {
+    --main-orange: #ff6f00;
+}
+
+body {
+    background-color: #000000;
+    color: #d3d3d3;
+}
+
+.orange {
+    color: var(--main-orange);
+}
+
+.font {
+    font-family: 'Indie Flower', cursive;
+}
+
+.section {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
