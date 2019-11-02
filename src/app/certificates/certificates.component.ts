@@ -20,6 +20,9 @@ export class CertificatesComponent implements OnInit {
       name: "JS Algorithm Scripting"
     },
     {
+      name: "The Complete Node.js Developer"
+    },
+    {
       name: "React 2019"
     }
   ]

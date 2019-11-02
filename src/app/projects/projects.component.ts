@@ -9,6 +9,12 @@ export class ProjectsComponent implements OnInit {
 
   projects = [
     {
+      title: 'Chat-app',
+      desc: 'Node.js real-time web applications with Socket.io ',
+      link1: 'https://bvm-chat-app.herokuapp.com/',
+      link2: 'https://github.com/boxulavm/Chat-app',
+    },
+    {
       title: 'Angular-Store',
       desc: 'Extended version of store app from angular docs',
       link1: 'https://bvm-store.netlify.com/',
@@ -19,11 +25,6 @@ export class ProjectsComponent implements OnInit {
       desc: 'React app with SpaceX REST API',
       link1: 'https://spacexlaunchesbvm.netlify.com',
       link2: 'https://github.com/boxulavm/SpaceX_Launches',
-    },
-    {
-      title: 'Redux-Blog',
-      desc: 'React-Redux app with CRUD functionality. Uses JSON-Server as a mock backend.',
-      link2: 'https://github.com/boxulavm/Redux-Blog',
     },
     {
       title: 'Search Users App',
