@@ -9,10 +9,9 @@ export class ProjectsComponent implements OnInit {
 
   projects = [
     {
-      title: 'Chat-app',
-      desc: 'Node.js real-time web applications with Socket.io ',
-      link1: 'https://bvm-chat-app.herokuapp.com/',
-      link2: 'https://github.com/boxulavm/Chat-app',
+      title: 'GramShop Jagodina',
+      desc: 'Landing page for local healhty food store.Built with Angular',
+      link1: 'https://gramshopjagodina.com',
     },
     {
       title: 'Angular-Store',
@@ -27,10 +26,44 @@ export class ProjectsComponent implements OnInit {
       link2: 'https://github.com/boxulavm/SpaceX_Launches',
     },
     {
-      title: 'Search Users App',
-      desc: 'React App with JSONplaceholder, React Router, Context API ',
-      link1: 'https://condescending-mirzakhani-56d613.netlify.com',
-      link2: 'https://github.com/boxulavm/React-search-users-app',
+      title: 'Chat-app',
+      desc: 'Node.js real-time web applications with Socket.io ',
+      link2: 'https://github.com/boxulavm/Chat-app',
+    },
+  ]
+
+  codepen = [
+    {
+      title: 'JavaScript Slider',
+      link: 'https://codepen.io/boxula_von_matterhorn/pen/jJdNoZ'
+    },
+    {
+      title: 'JS search app with async/await',
+      link: 'https://codepen.io/boxula_von_matterhorn/pen/bJydxR'
+    },
+    {
+      title: 'Loan Calculator',
+      link: 'https://codepen.io/boxula_von_matterhorn/pen/pmeQGe'
+    },
+    {
+      title: 'Movie List - JS Classes',
+      link: 'https://codepen.io/boxula_von_matterhorn/pen/joJeqR'
+    },
+    {
+      title: 'Rock Paper Scissors Lizard Spock - game',
+      link: 'https://codepen.io/boxula_von_matterhorn/pen/orqbMd'
+    },
+    {
+      title: 'Form Validation',
+      link: 'https://codepen.io/boxula_von_matterhorn/pen/xNYREr'
+    },
+    {
+      title: 'CSS Gradient Background Picker',
+      link: 'https://codepen.io/boxula_von_matterhorn/pen/KEzmGb'
+    },
+    {
+      title: 'CSS Hamburger Menu',
+      link: 'https://codepen.io/boxula_von_matterhorn/pen/QPErJx'
     },
   ]
 

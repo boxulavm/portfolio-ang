@@ -12,3 +12,15 @@
 .card-content {
     height: 130px;
 }
+
+/*  */
+.list-group-item{
+    background-color: transparent;
+    transition: 0.1s ease-in;
+    transform: scale(0.97)
+}
+
+.list-group-item:hover {
+    transform: scale(1) !important;
+    transition: 0.1s ease-in;
+}
